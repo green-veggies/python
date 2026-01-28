@@ -1,4 +1,4 @@
-Day 1 
+-- Day 1 
 
 create table cust_alter(
 cust_id INT PRIMARY KEY,
